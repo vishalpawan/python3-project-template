@@ -31,6 +31,7 @@ Why {{ cookiecutter.name }}?
 
 --------------------------------------------
 
-Thanks and I hope you find {{ cookiecutter.name }} helpful!
+Thanks and I hope you find {{ cookiecutter.name }} very helpful!
 
 ~Timothy Crosley
+
